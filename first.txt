@@ -1,3 +1,5 @@
 name : jyoshi
 department : ECE
 section : B
+
+section : b
